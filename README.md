@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Financial Chatbot
 
 ## Overview
@@ -34,3 +35,6 @@ Use Natural Language Processing (NLP) for more flexible queries.
 Fetch real-time financial data from APIs.
 
 Convert to a web-based chatbot using Flask or Streamlit.
+=======
+# Forage_GenAI
+>>>>>>> ca6efbc87523aad73420ad52b31e8096dd9dae85
